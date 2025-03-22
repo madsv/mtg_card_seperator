@@ -1,6 +1,13 @@
 include <BOSL2/std.scad>
 include <BOSL2/walls.scad>
 
+/* 
+This is based on work done by @a1jesse in 
+    https://makerworld.com/en/models/1088641-universal-card-dividers#profileId-1081706
+    modified to suit my needs
+*/
+
+
 /* [Card Size] */
 
 card_height = 64;//[30:120]
