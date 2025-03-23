@@ -13,7 +13,6 @@ This is based on work done by @a1jesse in
 card_height = 64;//[30:120]
 card_width = 88;//[20:100]
 divider_thickness = 1;//[1,1.2,1.4]
-mtg_color =  "green"; //[none, green, blue, black, white, red]
 
 /* [Label] */
 //Text to appear on the label
@@ -33,6 +32,8 @@ fill_thickness = 2;//[1:0.5:5]
 /* [Colors] */
 card_color = "#fdfefe";//color
 label_color = "#17202a";//color
+
+mtg_color =  "green"; //[none, green, blue, black, white, red]
 
 /* [Hidden] */
 border_width = 16;
